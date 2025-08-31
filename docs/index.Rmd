@@ -1,5 +1,34 @@
 ---
-title: "index"
-output: html_document
+title: "Lauren Maurer"
+image: "myphoto.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/laurenmaurer4"
+output:
+  postcards::trestles
 ---
+ 
+I am a junior at the University of Texas studying Statistics and Data Science with a minor in Analytics and Business of Sports. In my free time I like hiking, playing sports with my friends and baking.
 
+A few of my favorite shows are:
+<ul>
+  <li>New Girl</li>
+  <li>White Collar</li>
+  <li>Psych</li>
+  <li>Parks and Recreation</li>
+</ul>
+
+---
+<footer style="
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  background: white;
+  font-size: 0.8em;
+  color: gray;
+  border-top: 1px solid #ddd;">
+  Last updated: <code>`r format(Sys.time(), "%B %d, %Y at %H:%M")`</code>
+</footer>
