@@ -1,0 +1,24 @@
+---
+title: "Lauren Maurer"
+image: "myphoto.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+I am a junior at the University of Texas studying Statistics and Data Science with a minor in Analytics and Business of Sports. In my free time I like hiking, playing sports with my friends and baking.
+
+A few of my favorite shows are:
+<ul>
+  <li>New Girl</li>
+  <li>White Collar</li>
+  <li>Psych</li>
+  <li>Parks and Recreation</li>
+</ul>
+
+```{r}
+Sys.time()
