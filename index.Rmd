@@ -3,9 +3,7 @@ title: "Lauren Maurer"
 image: "myphoto.jpg"
 links:
   - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+    url: "https://github.com/laurenmaurer4"
 output:
   postcards::trestles
 ---
@@ -20,5 +18,17 @@ A few of my favorite shows are:
   <li>Parks and Recreation</li>
 </ul>
 
-```{r}
-Sys.time()
+---
+<footer style="
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  background: white;
+  font-size: 0.8em;
+  color: gray;
+  border-top: 1px solid #ddd;">
+  Last updated: <code>`r format(Sys.time(), "%B %d, %Y at %H:%M")`</code>
+</footer>
