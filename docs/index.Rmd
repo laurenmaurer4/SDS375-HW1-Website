@@ -5,9 +5,9 @@ links:
   - label: GitHub
     url: "https://github.com/laurenmaurer4"
   - label: Email
-    url: "lem4336@my.utexas.edu"
+    url: "mailto: lem4336@my.utexas.edu"
   - label: LinkedIn
-    url: "www.linkedin.com/in/lauren-maurer-a0016b2a4"
+    url: "https://www.linkedin.com/in/lauren-maurer-a0016b2a4"
 output:
   postcards::trestles
 ---
