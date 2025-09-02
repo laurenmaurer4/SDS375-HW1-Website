@@ -37,5 +37,5 @@ A few of my favorite National Parks are:
   font-size: 0.8em;
   color: gray;
   border-top: 1px solid #ddd;">
-  Last updated: <code>`r format(Sys.time(), "%B %d, %Y at %H:%M")`</code>
+  Last updated: <code>`r format(Sys.time())`</code>
 </footer>
