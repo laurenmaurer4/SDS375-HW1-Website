@@ -5,14 +5,17 @@ links:
   - label: GitHub
     url: "https://github.com/laurenmaurer4"
   - label: Email
-    url: "mailto: lem4336@my.utexas.edu"
+    url: "mailto:lem4336@my.utexas.edu"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/lauren-maurer-a0016b2a4"
 output:
   postcards::trestles
 ---
- 
+<div style="font-size: 18px;">
 I am a junior at the University of Texas getting my undergraduate degree in Statistics and Data Science with a minor in Analytics and Business of Sports. In the future I would like to work for a sports team doing analytics. In my free time I like hiking, playing sports with my friends and baking.
+<div>
+
+<br>
 
 A few of my favorite National Parks are:
 <ul>
