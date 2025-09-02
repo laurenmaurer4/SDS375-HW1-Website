@@ -4,18 +4,22 @@ image: "myphoto.jpg"
 links:
   - label: GitHub
     url: "https://github.com/laurenmaurer4"
+  - label: Email
+    url: "lem4336@my.utexas.edu"
+  - label: LinkedIn
+    url: "www.linkedin.com/in/lauren-maurer-a0016b2a4"
 output:
   postcards::trestles
 ---
  
-I am a junior at the University of Texas studying Statistics and Data Science with a minor in Analytics and Business of Sports. In my free time I like hiking, playing sports with my friends and baking.
+I am a junior at the University of Texas getting my undergraduate degree in Statistics and Data Science with a minor in Analytics and Business of Sports. In the future I would like to work for a sports team doing analytics. In my free time I like hiking, playing sports with my friends and baking.
 
-A few of my favorite shows are:
+A few of my favorite National Parks are:
 <ul>
-  <li>New Girl</li>
-  <li>White Collar</li>
-  <li>Psych</li>
-  <li>Parks and Recreation</li>
+  <li>Yosemite</li>
+  <li>Glacier</li>
+  <li>Grand Tetons</li>
+  <li>Rocky Mountain</li>
 </ul>
 
 ---
